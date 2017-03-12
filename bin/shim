@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export NODE_PATH=/mnt/c/Users/Owner/Documents/GitHub/ASATrivia/lib/node_modules
+export NPM_CONFIG_PREFIX=/mnt/c/Users/Owner/Documents/GitHub/ASATrivia
+export npm_config_prefix=/mnt/c/Users/Owner/Documents/GitHub/ASATrivia
+exec /mnt/c/Users/Owner/Documents/GitHub/ASATrivia/bin/node "$@"
