@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-var questions = require('./www/questions.js');
+var questions = require('../www/questions.js');
 
 /* GET home page for players of the game. They should be prompted to input code or link. */
 router.get('/', function(req, res, next) {
