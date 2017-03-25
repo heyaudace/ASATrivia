@@ -259,4 +259,6 @@ question_sample = [
 {'answer': ' 505.05 US dollars', 'question': ' As of 2013, What is the GDP per capita of Ethiopia  ', 'choices': [' 505.05 US dollars', ' 650.05 US dollars', ' 5505.5US dollars', ' 405.5 US dollars']} ,
 {'answer': ' Japan', 'question': ' On one of Tilhaun Gessese\xe2\x80\x99s Songs, He sings about falling in love with a national of this country', 'choices': [' Japan', ' China ', ' Kenya ', ' Somalia']} ,
 {'answer': ' 88 ', 'question': 'How many languages are spoken in Ethiopia', 'choices': [' 88 ', ' 77 ', ' 81 ', ' 79']}
-]
+];
+
+module.exports = question_sample;
