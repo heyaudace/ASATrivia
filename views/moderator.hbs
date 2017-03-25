@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{title}}</title>
+	<link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+	{{!-- {{> mHead}} --}}
+</head>
+<body>
+	<form action="/newgame" method="GET">
+		Create a new trivia game: <br>
+		Questions per round: <input type="number" name="questions_per_round" value="1" min="1" max="20" required><br>
+		Number of rounds: <input type="number" name="rounds" value="1" min="1" max="10" required> <br>
+		<input type="submit">
+	</form>
+</body>
+</html>
