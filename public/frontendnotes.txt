@@ -1,0 +1,80 @@
+FRONT END NOTES IDEAS
+=====================
+
+
+FONTS
+=====
+Baloo Bhaina: 
+/*
+Good for titles
+Only has regular 400
+*/
+<link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina" rel="stylesheet">
+font-family: 'Baloo Bhaina', cursive;
+
+Passion One:
+/*
+Good for titles
+has 400, 700, 900
+*/
+<link href="https://fonts.googleapis.com/css?family=Passion+One:400,700,900" rel="stylesheet">
+font-family: 'Passion One', cursive;
+
+Bevan:
+/*
+Good for titles
+has 400
+*/
+<link href="https://fonts.googleapis.com/css?family=Bevan" rel="stylesheet">
+font-family: 'Bevan', cursive;
+
+Righteous:
+/*
+Good for titles, and maybe questions as well! I like this one.
+has 400
+*/
+<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+font-family: 'Righteous', cursive;
+
+Oleo Script:
+/*
+Good for questions.
+has 400, 700
+*/
+<link href="https://fonts.googleapis.com/css?family=Oleo+Script:400,700" rel="stylesheet">
+font-family: 'Oleo Script', cursive;
+
+Bungee Outline:
+/*
+Maybe for special looking texts
+has 400
+*/
+<link href="https://fonts.googleapis.com/css?family=Bungee+Outline" rel="stylesheet">
+font-family: 'Bungee Outline', cursive;
+
+Carter One:
+/*
+Good for questions.
+has 400, 700
+*/
+<link href="https://fonts.googleapis.com/css?family=Carter+One" rel="stylesheet">
+font-family: 'Carter One', cursive;
+
+Lilita One:
+/*
+Good for questions.
+has 400
+*/
+<link href="https://fonts.googleapis.com/css?family=Lilita+One" rel="stylesheet">
+font-family: 'Lilita One', cursive;
+
+Joti One:
+/*
+Good for titles.
+has 400
+*/
+<link href="https://fonts.googleapis.com/css?family=Joti+One" rel="stylesheet">
+font-family: 'Joti One', cursive;
+
+
+
