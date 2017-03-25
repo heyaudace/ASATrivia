@@ -14,7 +14,10 @@ router.get('/create', function(req, res, next) {
 
 router.get('/newgame', function(req, res, next) {
 		var question = req.questions_per_round*req.rounds;
-	// res.render('moderator', { title: 'ASA TRIVIA | Create New Game' });
+		var question_array = questions.question_sample;
+		console.log(question);
+		console.log(question_array);
+		res.render('newgame');
 });
 
 module.exports = router;
